@@ -15,13 +15,6 @@
        alt="mona" />
 </div>
 
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Intelligible variable naming is the first step towards clean code</h2></summary>
-  </ul>
-</div>
 <!--
 **iotak0/iotak0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
