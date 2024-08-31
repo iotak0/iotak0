@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Animont](https://animont.net)
 
-- 🌱 I’m currently learning **React ⚛**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [iotak0.com](iotak0.com)
 
-- 💬 Ask me about **Flutter 🐦**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **iotak0@gmail.com**
 
