@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/iotak0" target="blank"><img src="https://img.shields.io/twitter/follow/iotak0?logo=twitter&style=for-the-badge" alt="iotak0" /></a> </p>
 
-- 🔭 I’m currently working on [Animont](https://animezilla.xyz)
+- 🔭 I’m currently working on [AnimeZilla](https://animezilla.xyz)
 
 - 🌱 I’m currently learning **React**
 
