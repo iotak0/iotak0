@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/iotak0" target="blank"><img src="https://img.shields.io/twitter/follow/iotak0?logo=twitter&style=for-the-badge" alt="iotak0" /></a> </p>
 
-- 🔭 I’m currently working on [Animont](https://animont.net)
+- 🔭 I’m currently working on [Animont](https://animezilla.xyz)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [iotak0.com](iotak0.com)
+- 👨‍💻 All of my projects are available at [iotak0.github.io](https://iotak0.github.io/iotak0/)
 
 - 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **iotak0@gmail.com**
+- 📫 How to reach me **mont.otaku@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
